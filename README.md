@@ -1,40 +1,34 @@
-LelactroID, Website Lelang Barang Elektronik
+LelactroID – Website Lelang Barang Elektronik
 
-LelactroID adalah sebuah projek membuat website lelang barang yang di berikan untuk melatih kemampuan siswa dalam membuat website sebelum projek UKK real di berikan. LelactroID memiliki Multi-user System yang terdiri dari: User, Admin, Admin Super.
+LelactroID adalah sebuah proyek pembuatan website lelang khusus barang elektronik ringan. Proyek ini dirancang sebagai latihan sebelum menghadapi Ujian Kompetensi Keahlian (UKK) di bidang Rekayasa Perangkat Lunak. Website ini memiliki sistem multi-user dengan tiga jenis peran utama: User, Admin, dan Admin Super. Setiap peran memiliki hak akses dan tanggung jawab yang berbeda, sehingga sistem dapat berjalan lebih teratur dan realistis seperti platform lelang profesional.
 
-Fitur Fitur LelactroID
+Fitur Utama
 1. Autentikasi Pengguna
-   - Registrasi dan login dengan role berbeda (User, Admin, Admin Super).
-   - Sistem keamanan dasar menggunakan autentikasi berbasis session/token.
+-Registrasi dan login sesuai role (User, Admin, Admin Super).
+-Menggunakan sistem autentikasi berbasis session/token untuk keamanan dasar.
 
-2. Sistem Lelang Elektronik
-   - User dapat melihat daftar barang elektronik yang sedang dilelang.
-   - Penawaran harga (bidding) dilakukan secara real-time.
-   - Mekanisme waktu (countdown) untuk menentukan akhir lelang.
+2. Sistem Lelang
+-User dapat melihat daftar barang elektronik yang sedang dilelang.\
+-Penawaran harga dilakukan secara real-time.
+-Terdapat timer (countdown) yang menutup lelang secara otomatis ketika waktu habis.
 
 3. Manajemen Barang
-   - Admin dapat menambah, mengedit, dan menghapus barang lelang.
-   - Barang yang dilelang difokuskan pada kategori elektronik ringan seperti laptop, headset, earphone, TWS, dan perangkat sejenis.
+-Admin dapat menambah, mengedit, atau menghapus barang lelang.
+-Fokus pada barang elektronik ringan, seperti: laptop, headset, earphone, TWS, dan sejenisnya.
 
-4. Role-Based Access Control (RBAC)
-   - User: mengikuti lelang, memberikan penawaran, melihat status lelang.  
-   - Admin: mengelola barang lelang, memverifikasi data, memantau jalannya lelang.  
-   - Admin Super: memiliki kontrol penuh, termasuk manajemen admin dan konfigurasi sistem.  
+5. Role-Based Access Control (RBAC)
+-User: mengikuti lelang, memberikan penawaran, melihat status lelang.
+-Admin: mengelola barang, memverifikasi data, serta memantau jalannya lelang.
+-Admin Super: memiliki kontrol penuh, termasuk mengatur admin dan konfigurasi sistem.
 
 5. Dashboard Interaktif
-   - Tampilan dashboard sesuai peran masing-masing pengguna.
-   - Menampilkan riwayat penawaran, status barang, dan informasi pemenang.
+-Tampilan dashboard menyesuaikan role masing-masing pengguna.
+-Menyediakan informasi seperti riwayat penawaran, status barang, dan pemenang lelang.
 
 6. Notifikasi Pemenang
-   - Sistem otomatis menampilkan pemenang lelang setelah batas waktu berakhir.  
-   - Memberikan transparansi dalam proses penentuan hasil.
+-Setelah waktu lelang berakhir, sistem otomatis menampilkan pemenang.
+-Proses transparan untuk menjaga keadilan.
 
----
-
-Tujuan Pengembangan
-- Menjadi studi kasus nyata bagi siswa dalam memahami konsep Full Stack Web Development
-- Memberikan gambaran praktis mengenai implementasi **Multi-User System** dengan Role-Based Access Control (RBAC).  
-- Menciptakan platform sederhana yang meniru alur kerja website lelang profesional dengan tampilan yang lebih mudah diakses.  
-- Mempersiapkan siswa agar terbiasa dengan standar proyek UKK/TPKS di bidang Rekayasa Perangkat Lunak.  
-
----
+Tujuan Proyek
+Memberikan pengalaman nyata dalam pengembangan Full Stack Web Development. Memahami implementasi sistem multi-user dengan RBAC. Membangun platform sederhana yang meniru cara kerja website lelang profesional, namun tetap mudah digunakan dan dipelajari.
+Menjadi persiapan siswa menghadapi standar proyek UKK/TPKS di bidang RPL.
