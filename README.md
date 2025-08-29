@@ -31,6 +31,7 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 <br>
 
 <h1 align="center">🧰 Cara Clone Repository — Projek.UKK</h1>
+
 <p align="center">
   Panduan singkat agar siapa pun bisa meng-clone repo ini.
   <br /><br />
@@ -38,10 +39,11 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
   <br /><br />
   Copy Link → <code>https://github.com/CodeWithJex/Projek.UKK.git</code>
 </p>
-<br>
----
 
-## Panduan Clone
+<hr />
+
+<h3>🚀 Panduan Clone</h3>
+
 ```bash
 git clone https://github.com/CodeWithJex/Projek.UKK.git
 cd Projek.UKK
