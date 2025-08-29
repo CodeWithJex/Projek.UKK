@@ -27,8 +27,7 @@ LelactroID adalah proyek pembuatan website lelang untuk barang elektronik ringan
 # Tujuan Proyek
 Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam membangun aplikasi Full Stack Web Development. Proyek ini juga menjadi sarana untuk memahami penerapan sistem multi-user dengan Role-Based Access Control. Selain itu, LelactroID dibuat agar siswa bisa merasakan langsung bagaimana alur kerja website lelang profesional, namun dengan tampilan yang lebih sederhana dan mudah dipelajari. Proyek ini juga berfungsi sebagai persiapan dalam menghadapi standar UKK/TPKS di jurusan RPL.
 
---
-<br>
+---
 <br>
 
 <h1 align="center">🧰 Cara Clone Repository — <code>Projek.UKK</code></h1>
