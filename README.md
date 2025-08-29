@@ -28,11 +28,10 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 
 ---
 ```markdown
-## Installation
-
-1. Clone repository  
+## Clone Repository
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/CodeWithJex/Projek.UKK
+---
 
 
 
