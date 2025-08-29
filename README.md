@@ -35,20 +35,8 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 <p align="center">
   Panduan singkat & rapi agar siapa pun bisa meng-clone repo ini dengan cepat.
   <br />
-  <a href="#-daftar-isi"><strong>Loncat ke TOC »</strong></a>
+  <a href="#-daftar-isi"><strong>Loncat ke Sini »</strong></a>
   <br /><br />
-  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/stargazers">
-    <img src="https://img.shields.io/github/stars/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/network/members">
-    <img src="https://img.shields.io/github/forks/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Forks" />
-  </a>
-  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/issues">
-    <img src="https://img.shields.io/github/issues/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Issues" />
-  </a>
-  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="License" />
-  </a>
 </p>
 
 ---
