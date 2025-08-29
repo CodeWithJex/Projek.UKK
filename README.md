@@ -35,8 +35,6 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 <p align="center">
   Panduan singkat & rapi agar siapa pun bisa meng-clone repo ini dengan cepat.
   <br />
-  <a href="#-daftar-isi"><strong>Loncat ke Sini »</strong></a>
-  <br /><br />
 </p>
 
 ---
