@@ -28,15 +28,9 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 
 ---
 <br>
-<!-- PROJECT HEADER -->
-<p align="center">
-  <a href="https://github.com/<USERNAME>/<NAMA_REPO>">
-    <!-- Optional: ganti dengan logo/proyek kamu -->
-    <img src="https://raw.githubusercontent.com/<USERNAME>/<NAMA_REPO>/main/.github/banner.png" alt="<NAMA_REPO>" width="800" />
-  </a>
-</p>
+<br>
 
-<h1 align="center">🧰 Cara Clone Repository — <NAMA_REPO></h1>
+<h1 align="center">🧰 Cara Clone Repository — <Projek.UKK></h1>
 
 <p align="center">
   Panduan singkat & rapi agar siapa pun bisa meng-clone repo ini dengan cepat.
@@ -59,7 +53,26 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 
 ---
 
-## 🗂️ Daftar Isi
+<p align="center">
+  Panduan singkat agar siapa pun bisa meng-clone repo ini.
+  <br />
+  <a href="https://github.com/CodeWithJex/Projek.UKK"><strong>📦 Buka Repository »</strong></a>
+  <br /><br />
+  <code>https://github.com/CodeWithJex/Projek.UKK.git</code>
+</p>
+
+---
+
+## ⚡ Cara Clone (HTTPS)
+```bash
+git clone https://github.com/CodeWithJex/Projek.UKK.git
+cd Projek.UKK
+
+
+
+---
+
+## 🗂 Flowchart & Diagram
 - [Prasyarat](#-prasyarat)
 - [Clone Cepat](#-clone-cepat)
   - [HTTPS](#https)
