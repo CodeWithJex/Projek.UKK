@@ -41,31 +41,22 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 
 ---
 
-## ⚡ Cara Clone (HTTPS)
+## Panduan Clone
 ```bash
 git clone https://github.com/CodeWithJex/Projek.UKK.git
 cd Projek.UKK
-
-
-
 ---
-
+```
+<br>
 ## 🗂 Flowchart & Diagram
-- [Prasyarat](#-prasyarat)
-- [Clone Cepat](#-clone-cepat)
-  - [HTTPS](#https)
-  - [SSH](#ssh)
-  - [GitHub CLI](#github-cli)
-- [Opsi Lanjutan](#-opsi-lanjutan)
-  - [Shallow Clone](#shallow-clone)
-  - [Submodule](#submodule)
-  - [Sparse Checkout (folder tertentu)](#sparse-checkout-folder-tertentu)
-- [Repo Private](#-repo-private)
-- [Update Setelah Clone](#-update-setelah-clone)
-- [Menjalankan Proyek (opsional)](#-menjalankan-proyek-opsional)
-- [Unduh Tanpa Git (ZIP)](#-unduh-tanpa-git-zip)
-- [Troubleshooting Cepat](#-troubleshooting-cepat)
-- [Konfigu]()
+- Flowchart LelactroID
+<img width="556" height="952" alt="Flowchart LelactroID" src="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada" />
+
+- Diagram Activity
+<img width="751" height="971" alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" />
+
+-Diagram Use Case
+<img width="751" height="971" alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" />
 
 
 
