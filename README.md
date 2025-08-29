@@ -49,7 +49,54 @@ git clone https://github.com/CodeWithJex/Projek.UKK.git
 cd Projek.UKK
 ```
 ---
-<div align="center"> <h3>Flowchart — LelactroID</h3> <a href="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada"> <img alt="Flowchart LelactroID" src="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div> <br /> <div align="center"> <h3>Activity Diagram</h3> <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"> <img alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div> <br /> <div align="center"> <h3>Use Case Diagram</h3> <!-- Ganti URL di bawah ini jika punya gambar Use Case yang berbeda --> <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"> <img alt="Use Case Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div>
+
+<!-- Flowchart — LelactroID -->
+<div align="center">
+  <h3>Flowchart — LelactroID</h3>
+  <a href="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada">
+    <img
+      src="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada"
+      alt="Flowchart LelactroID"
+      width="720"
+    />
+  </a>
+  <br />
+  <em>Klik gambar untuk memperbesar</em>
+</div>
+
+<br />
+
+<!-- Activity Diagram -->
+<div align="center">
+  <h3>Activity Diagram</h3>
+  <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8">
+    <img
+      src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"
+      alt="Activity Diagram"
+      width="720"
+    />
+  </a>
+  <br />
+  <em>Klik gambar untuk memperbesar</em>
+</div>
+
+<br />
+
+<!-- Use Case Diagram -->
+<div align="center">
+  <h3>Use Case Diagram</h3>
+  <!-- Ganti URL di bawah jika punya gambar Use Case yang berbeda -->
+  <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8">
+    <img
+      src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"
+      alt="Use Case Diagram"
+      width="720"
+    />
+  </a>
+  <br />
+  <em>Klik gambar untuk memperbesar</em>
+</div>
+
 
 
 
