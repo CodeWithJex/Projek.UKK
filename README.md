@@ -39,7 +39,6 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
   Copy Link → <code>https://github.com/CodeWithJex/Projek.UKK.git</code>
 </p>
 <br>
----
 
 ## Panduan Clone
 <br>
