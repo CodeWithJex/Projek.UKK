@@ -48,19 +48,8 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 git clone https://github.com/CodeWithJex/Projek.UKK.git
 cd Projek.UKK
 ```
-
 ---
-
-<br>
-## 🗂 Flowchart & Diagram
-- Flowchart LelactroID
-<img width="556" height="952" alt="Flowchart LelactroID" src="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada" />
-
-- Diagram Activity
-<img width="751" height="971" alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" />
-
--Diagram Use Case
-<img width="751" height="971" alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" />
+<div align="center"> <h3>Flowchart — LelactroID</h3> <a href="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada"> <img alt="Flowchart LelactroID" src="https://github.com/user-attachments/assets/0ad8058e-2d24-48ee-8585-5cbdfaa68ada" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div> <br /> <div align="center"> <h3>Activity Diagram</h3> <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"> <img alt="Activity Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div> <br /> <div align="center"> <h3>Use Case Diagram</h3> <!-- Ganti URL di bawah ini jika punya gambar Use Case yang berbeda --> <a href="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8"> <img alt="Use Case Diagram" src="https://github.com/user-attachments/assets/04b43dbb-d8eb-425a-9da6-22f0b2c195f8" width="720" /> </a> <br /><em>Klik gambar untuk memperbesar</em> </div>
 
 
 
