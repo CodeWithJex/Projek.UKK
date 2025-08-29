@@ -27,11 +27,53 @@ Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam mem
 
 
 ---
-```markdown
-## Clone Repository
-   ```bash
-   git clone https://github.com/CodeWithJex/Projek.UKK
+<!-- PROJECT HEADER -->
+<p align="center">
+  <a href="https://github.com/<USERNAME>/<NAMA_REPO>">
+    <!-- Optional: ganti dengan logo/proyek kamu -->
+    <img src="https://raw.githubusercontent.com/<USERNAME>/<NAMA_REPO>/main/.github/banner.png" alt="<NAMA_REPO>" width="800" />
+  </a>
+</p>
+
+<h1 align="center">🧰 Cara Clone Repository — <NAMA_REPO></h1>
+
+<p align="center">
+  Panduan singkat & rapi agar siapa pun bisa meng-clone repo ini dengan cepat.
+  <br />
+  <a href="#-daftar-isi"><strong>Loncat ke TOC »</strong></a>
+  <br /><br />
+  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/stargazers">
+    <img src="https://img.shields.io/github/stars/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/network/members">
+    <img src="https://img.shields.io/github/forks/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/issues">
+    <img src="https://img.shields.io/github/issues/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="GitHub Issues" />
+  </a>
+  <a href="https://github.com/<USERNAME>/<NAMA_REPO>/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/<USERNAME>/<NAMA_REPO>?style=for-the-badge" alt="License" />
+  </a>
+</p>
+
 ---
+
+## 🗂️ Daftar Isi
+- [Prasyarat](#-prasyarat)
+- [Clone Cepat](#-clone-cepat)
+  - [HTTPS](#https)
+  - [SSH](#ssh)
+  - [GitHub CLI](#github-cli)
+- [Opsi Lanjutan](#-opsi-lanjutan)
+  - [Shallow Clone](#shallow-clone)
+  - [Submodule](#submodule)
+  - [Sparse Checkout (folder tertentu)](#sparse-checkout-folder-tertentu)
+- [Repo Private](#-repo-private)
+- [Update Setelah Clone](#-update-setelah-clone)
+- [Menjalankan Proyek (opsional)](#-menjalankan-proyek-opsional)
+- [Unduh Tanpa Git (ZIP)](#-unduh-tanpa-git-zip)
+- [Troubleshooting Cepat](#-troubleshooting-cepat)
+- [Konfigu]()
 
 
 
