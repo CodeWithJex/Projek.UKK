@@ -3,8 +3,6 @@ LelactroID adalah proyek pembuatan website lelang untuk barang elektronik ringan
 
 ---
 
-<br>
-
 ## Fitur Utama
 #### Autentikasi Pengguna
 - Website mendukung proses registrasi dan login sesuai peran (User, Admin, dan Admin Super). Keamanan dasar sudah diterapkan menggunakan autentikasi berbasis session atau token sehingga data pengguna lebih aman.
@@ -25,12 +23,11 @@ LelactroID adalah proyek pembuatan website lelang untuk barang elektronik ringan
 - Begitu waktu lelang berakhir, sistem otomatis menentukan pemenang dan menampilkan hasilnya secara transparan. Hal ini membuat proses lelang lebih jelas dan adil bagi semua pihak.
 
 ---
-<br /><br />
+
 # Tujuan Proyek
 Tujuan utama dari proyek LelactroID adalah memberikan pengalaman nyata dalam membangun aplikasi Full Stack Web Development. Proyek ini juga menjadi sarana untuk memahami penerapan sistem multi-user dengan Role-Based Access Control. Selain itu, LelactroID dibuat agar siswa bisa merasakan langsung bagaimana alur kerja website lelang profesional, namun dengan tampilan yang lebih sederhana dan mudah dipelajari. Proyek ini juga berfungsi sebagai persiapan dalam menghadapi standar UKK/TPKS di jurusan RPL.
 
-
----
+--
 <br>
 <br>
 
